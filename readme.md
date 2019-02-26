@@ -1,4 +1,4 @@
-<p align="center"><img src="http://php.net/images/logos/php-logo.svg"></p>
+<p align="center"><img width="100" src="http://php.net/images/logos/php-logo.svg"></p>
 
 ## PHP项目环境配置
 
