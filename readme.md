@@ -22,6 +22,8 @@
 - DB
 - Redis
 
+
+
 ### 文件存储
 
 <p>通常情况下，session会被默认存储在文件中.缺点是适合单台服务器部署，多台服务器部署时，会出现Session会话无法保持，用户登陆异常退出.</p>
@@ -45,3 +47,14 @@
 ### DB存储设置 - [readme_db.md](https://github.com/amoswdh/PHP-Help/blob/php-session/readme_db.md)
 
 ### Redis存储设置
+
+<p>我们将学习如何创建实现PHP SessionHandlerInterface接口的自定义会话处理程序</p>
+
+## session_set_save_handler - 设置用户级会话存储功能
+
+[PHP官网介绍](http://php.net/manual/en/function.session-set-save-handler.php)
+
+## 备注
+
+<p>目前主流的PHP框架都支持Session存储的配置，自定义存储类文件各自有微小差异，但都遵循PHP官方SessionHandlerInterface接口的规范.</p>
+
