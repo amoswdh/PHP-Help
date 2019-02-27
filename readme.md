@@ -42,6 +42,6 @@
 
 ### 文件存储设置 - Session 默认存储方式，不做过多介绍.
 
-### DB存储设置
+### DB存储设置 - [readme_db.md](https://github.com/amoswdh/PHP-Help/blob/php-session/readme_db.md)
 
 ### Redis存储设置
