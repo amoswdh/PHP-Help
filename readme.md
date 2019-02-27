@@ -46,7 +46,7 @@
 
 ### DB存储设置 - [readme_db.md](https://github.com/amoswdh/PHP-Help/blob/php-session/readme_db.md)
 
-### Redis存储设置
+### Redis存储设置 - [readme_redis.md](https://github.com/amoswdh/PHP-Help/blob/php-session/readme_redis.md)
 
 <p>我们将学习如何创建实现PHP SessionHandlerInterface接口的自定义会话处理程序</p>
 
